@@ -19,6 +19,16 @@ This project uses computer vision to track the movements of the user, functionin
 # Achievements 🏆
 ## Finalist, Smart India Hackathon (SIH) 2023
 Selected as one of 5 finalist teams in the problem statement on "Deep Learning for Terrain Recognition" among over 50,000 ideas from 44,000 teams. The grand finale featured more than 12,000 participants and 2,500 mentors across 48 nodal centers. Being among the finalists in such a competitive environment is a testament to my skills and innovative approach to problem-solving.
+# Connect with Me
+For any inquiries or collaborations, please feel free to reach out:
+<p align="left">
+    <a href="https://www.linkedin.com/in/yuvanandhinim/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:m.yuvanadhini@gmail.com" style="margin-left: 10px;">
+        <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</p>
 
 
 <!--
