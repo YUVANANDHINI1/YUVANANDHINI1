@@ -7,7 +7,7 @@ I am Yuva Nandhini M, an aspiring AI enthusiast with a deep fascination for the 
   
 - Deep Learning
 
-# Projects
+# Projects👩‍💻
 ## SIH 2023 Project - Deep Learning for Terrain Recognition
 This project aims to deploy a software where users can upload an image to identify the type of terrain and its implicit quantity. It uses Deep Learning, specifically Convolutional Neural Networks (CNN), to perform terrain recognition. This application is beneficial for navigating self-driving military vehicles to find the safest and most efficient routes.
 
@@ -16,6 +16,11 @@ The goal of this project is to employ the YOLO object detection method to identi
 
 ## Virtual Mouse
 This project uses computer vision to track the movements of the user, functioning as a virtual mouse. Machine Learning algorithms are utilized to improve its accuracy over time.
+# Achievements 🏆
+## Finalist, Smart India Hackathon (SIH) 2023
+Selected as one of 5 finalist teams in the problem statement on "Deep Learning for Terrain Recognition" among over 50,000 ideas from 44,000 teams. The grand finale featured more than 12,000 participants and 2,500 mentors across 48 nodal centers. Being among the finalists in such a competitive environment is a testament to my skills and innovative approach to problem-solving.
+
+
 <!--
 **YUVANANDHINI1/YUVANANDHINI1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
