@@ -1,6 +1,6 @@
 # Hi there 👋
 I am Yuva Nandhini M, an aspiring AI enthusiast with a deep fascination for the potential of AI technology to transform industries. My passion lies in exploring AI applications and I am proficient in Machine Learning algorithms and Deep Learning frameworks. I am eager to apply my skills in real-world scenarios and continue learning and growing in the field of AI.
-# Skills
+# Skills🤹
 - Python Programming
 
 - Machine Learning
