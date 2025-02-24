@@ -8,7 +8,7 @@ I am Yuva Nandhini M, an aspiring AI enthusiast with a deep fascination for the 
 - Deep Learning
 
 # Projects👩‍💻
-**##FaceFusion** 
+## FaceFusionSIH 
 FaceFusion is an AI-powered tool that delivers high-quality face enhancements and realistic face swaps. Using models like GFPGAN, Real-ESRGAN, and InsightFace, it has it application
 in/with film studios, content creators, and designers seeking efficient and affordable visual effects.
 
