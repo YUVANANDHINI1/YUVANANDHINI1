@@ -8,6 +8,10 @@ I am Yuva Nandhini M, an aspiring AI enthusiast with a deep fascination for the 
 - Deep Learning
 
 # Projects👩‍💻
+**##FaceFusion** 
+FaceFusion is an AI-powered tool that delivers high-quality face enhancements and realistic face swaps. Using models like GFPGAN, Real-ESRGAN, and InsightFace, it has it application
+in/with film studios, content creators, and designers seeking efficient and affordable visual effects.
+
 ## SIH 2023 Project - Deep Learning for Terrain Recognition
 This project aims to deploy a software where users can upload an image to identify the type of terrain and its implicit quantity. It uses Deep Learning, specifically Convolutional Neural Networks (CNN), to perform terrain recognition. This application is beneficial for navigating self-driving military vehicles to find the safest and most efficient routes.
 
