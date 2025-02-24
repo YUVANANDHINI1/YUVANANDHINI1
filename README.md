@@ -26,7 +26,7 @@ Selected as one of 5 finalist teams in the problem statement on "Deep Learning f
 # Connect with Me
 For any inquiries or collaborations, please feel free to reach out:
 <p align="left">
-    <a href="https:www.linkedin.com/in/yuvanandhinim/">
+    <a href="https://www.linkedin.com/in/yuvanandhinim?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
         <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:m.yuvanadhini@gmail.com" style="margin-left: 10px;">
